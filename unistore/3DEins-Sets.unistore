@@ -20,24 +20,24 @@
 			"version": "1",
 			"author": "Universal-Team",
 			"description": "The default 3DEins Cardset.",
-			"fileSize": 302384
+			"fileSize": 316499
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "https://github.com/Stack-Team/3DEins-Sets/raw/master/sets/default.7z",
-			"output": "sdmc:/3ds/3DEins/sets/default.7z",
+			"file": "https://github.com/Stack-Team/3DEins-Sets/raw/master/sets/default.zip",
+			"output": "sdmc:/3ds/3DEins/sets/default.zip",
 			"message": "Downloading default cardset..."
 		},
 		{
 			"type": "extractFile",
-			"file": "/3ds/3DEins/sets/default.7z",
+			"file": "/3ds/3DEins/sets/default.zip",
 			"input": "",
 			"output": "/3ds/3DEins/sets/default/",
 			"message": "Extracting default cardset..."
 		},
 		{
 			"type": "deleteFile",
-			"file": "sdmc:/3ds/3DEins/sets/default.7z",
+			"file": "sdmc:/3ds/3DEins/sets/default.zip",
 			"message": "Deleting unneded file."
 		}]
 	}]

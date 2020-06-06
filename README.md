@@ -11,7 +11,7 @@ Benutzung:
 
 3.) Starte Universal-Updater, dann gehe zu `UniStore`, `Store list` und wähle das `3DEins-Sets` UniStore aus. Update falls du magst.
 
-4.) Nun siehst du alle verfügbaren sets und kannst diese damit herunterladen. Alle Sets sind im `7z` format und werden erst heruntergeladen, dann extrahiert in den korrekten ordner. (`sdmc:/3ds/3DEins/sets/`)
+4.) Nun siehst du alle verfügbaren sets und kannst diese damit herunterladen. Alle Sets sind im `zip` format und werden erst heruntergeladen, dann extrahiert in den korrekten ordner. (`sdmc:/3ds/3DEins/sets/`)
 
 
 Wie du diese benutzen kannst? Siehe auf der Wiki seite!

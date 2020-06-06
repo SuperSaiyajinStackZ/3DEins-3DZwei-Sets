@@ -1,0 +1,44 @@
+{
+	"storeInfo": {
+		"title": "3DEins-Sets",
+		"author": "Stack-Team",
+		"url": "https://github.com/Stack-Team/3DEins-Sets/raw/master/unistore/3DEins-Sets.unistore",
+		"file": "sdmc:/3ds/Universal-Updater/stores/3DEins-Sets.unistore",
+		"description": "You can find CardSets for 3DEins on this store.\nThis store is made by Stack-Team and card sets are hosted by Stack-Team as well.",
+		"barColor": "#395472",
+		"bgBottomColor": "#262C4D",
+		"bgTopColor": "#60A8C0",
+		"textColor": "#FFFFFF",
+		"selectedColor": "#78C0D8",
+		"unselectedColor": "#4D7684",
+		"version": 0
+	},
+	"storeContent": [
+		{
+		"info": {
+			"title": "Default Set",
+			"version": "1",
+			"author": "Universal-Team",
+			"description": "The default 3DEins Cardset.",
+			"fileSize": 302384
+		},
+		"script": [{
+			"type": "downloadFile",
+			"file": "https://github.com/Stack-Team/3DEins-Sets/raw/master/sets/default.7z",
+			"output": "sdmc:/3ds/3DEins/sets/default.7z",
+			"message": "Downloading default cardset..."
+		},
+		{
+			"type": "extractFile",
+			"file": "/3ds/3DEins/sets/default.7z",
+			"input": "",
+			"output": "/3ds/3DEins/sets/default/",
+			"message": "Extracting default cardset..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "sdmc:/3ds/3DEins/sets/default.7z",
+			"message": "Deleting unneded file."
+		}]
+	}]
+}

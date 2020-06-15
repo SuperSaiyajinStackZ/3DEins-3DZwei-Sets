@@ -29,7 +29,7 @@ Usage:
 
 2.) Download Universal-Updater from [here](https://github.com/Universal-Team/Universal-Updater/releases) and install it.
 
-3.) Start Universal-Updater, then go to `UniStore` -> `Store list` und select the `3DEins-Sets` UniStore. Update if you like.
+3.) Start Universal-Updater, then go to `UniStore` -> `Store list` and select the `3DEins-Sets` UniStore. Update if you like.
 
 4.) Now you're able to see all available sets and you are able to download them through that. All sets are in the `zip` format and will be downloaded first, and then extracted to the correct directory. (`sdmc:/3ds/3DEins/sets/`)
 

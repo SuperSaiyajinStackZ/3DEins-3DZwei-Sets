@@ -2,7 +2,7 @@
 	"storeInfo": {
 		"title": "3DEins-Sets",
 		"author": "SuperSaiyajinStackZ",
-		"url": "https://github.com/SuperSaiyajinStackZ/3DEins-Sets/raw/master/unistore/3DEins-Sets.unistore",
+		"url": "https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/raw/master/unistore/3DEins-Sets.unistore",
 		"file": "sdmc:/3ds/Universal-Updater/stores/3DEins-Sets.unistore",
 		"description": "You can find CardSets for 3DEins on this store.\nThis store is made by SuperSaiyajinStackZ.\nCardsets are hosted by SuperSaiyajinStackZ as well.",
 		"barColor": "#395472",
@@ -24,7 +24,7 @@
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "https://github.com/SuperSaiyajinStackZ/3DEins-Sets/raw/master/sets/default.zip",
+			"file": "https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/raw/master/3DEins/default.zip",
 			"output": "sdmc:/3ds/3DEins/sets/default.zip",
 			"message": "Downloading default cardset..."
 		},

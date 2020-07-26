@@ -40,5 +40,32 @@
 			"file": "sdmc:/3ds/3DZwei/sets/default.zip",
 			"message": "Deleting unneded file."
 		}]
+	},
+	{
+		"info": {
+			"title": "NinjaCheetah's Cards",
+			"version": "1",
+			"author": "NinjaCheetah",
+			"description": "NinjaCheetah's Cards",
+			"fileSize": 24073
+		},
+		"script": [{
+			"type": "downloadFile",
+			"file": "https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/raw/master/3DZwei/NinjaCheetah's Cards.zip",
+			"output": "sdmc:/3ds/3DZwei/sets/NinjaCheetah's Cards.zip",
+			"message": "Downloading NinjaCheetah's Cards..."
+		},
+		{
+			"type": "extractFile",
+			"file": "/3ds/3DZwei/sets/NinjaCheetah's Cards.zip",
+			"input": "",
+			"output": "/3ds/3DZwei/sets/NinjaCheetah's Cards/",
+			"message": "Extracting NinjaCheetah's Cards..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "sdmc:/3ds/3DZwei/sets/NinjaCheetah's Cards.zip",
+			"message": "Deleting unneded file."
+		}]
 	}]
 }

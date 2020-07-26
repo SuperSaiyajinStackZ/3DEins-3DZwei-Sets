@@ -51,7 +51,7 @@
 		},
 		"script": [{
 			"type": "downloadFile",
-			"file": "https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/raw/master/3DZwei/NinjaCheetah's Cards.zip",
+			"file": "https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/raw/master/3DZwei/NinjaCheetah's%20Cards.zip",
 			"output": "sdmc:/3ds/3DZwei/sets/NinjaCheetah's Cards.zip",
 			"message": "Downloading NinjaCheetah's Cards..."
 		},

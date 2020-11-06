@@ -14,9 +14,13 @@ Here are the instructions to do so:
 
 3.) Press on the QR Code icon.. you should know, how it looks like.
 
-Scan this QR Code for 3DEins: ![](https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/blob/master/unistore/3DEins-Sets.png)
+Scan this QR Code for 3DEins:
 
-Scan this QR Code for 3DZwei: ![](https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/blob/master/unistore/3DZwei-Sets.png)
+![](https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/blob/master/unistore/3DEins-Sets.png)
+
+Scan this QR Code for 3DZwei:
+
+![](https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/blob/master/unistore/3DZwei-Sets.png)
 
 
 After you scanned it, Universal-Updater will download the UniStore.. from now on, Universal-Updater will handle the update of the UniStore for you, when there is an update available.

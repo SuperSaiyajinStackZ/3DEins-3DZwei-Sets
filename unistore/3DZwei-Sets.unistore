@@ -4,15 +4,20 @@
 		"author": "SuperSaiyajinStackZ",
 		"url": "https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/raw/master/unistore/3DZwei-Sets.unistore",
 		"file": "3DZwei-Sets.unistore",
+		"sheetURL": "https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/raw/master/unistore/3DZwei-Sets.t3x",
+		"sheet": "3DZwei-Sets.t3x",
 		"description": "You can find CardSets for 3DZwei on this store.\nThis store is made by SuperSaiyajinStackZ.\nCardsets are hosted by SuperSaiyajinStackZ as well.",
+		"bg_sheet": 0,
+		"bg_index": 0,
 		"version": 3,
-		"revision": 1
+		"revision": 2
 	},
 	"storeContent": [{
 		"info": {
 			"title": "Default Set",
 			"version": "1.0.0",
 			"author": "Universal-Team",
+			"icon_index": 1,
 			"description": "The default 3DZwei Cardset.",
 			"last_updated": "2020-07-19"
 		},
@@ -40,6 +45,7 @@
 			"title": "NinjaCheetah's Cards",
 			"version": "1.0.0",
 			"author": "NinjaCheetah",
+			"icon_index": 1,
 			"description": "NinjaCheetah's Cards",
 			"last_updated": "2020-07-26"
 		},

@@ -4,7 +4,11 @@
 		"author": "SuperSaiyajinStackZ",
 		"url": "https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/raw/master/unistore/3DEins-Sets.unistore",
 		"file": "3DEins-Sets.unistore",
+		"sheetURL": "https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/raw/master/unistore/3DEins-Sets.t3x",
+		"sheet": "3DEins-Sets.t3x",
 		"description": "You can find CardSets for 3DEins on this store.\nThis store is made by SuperSaiyajinStackZ.\nCardsets are hosted by SuperSaiyajinStackZ as well.",
+		"bg_sheet": 0,
+		"bg_index": 0,
 		"version": 3,
 		"revision": 2
 	},
@@ -13,6 +17,7 @@
 			"title": "Default Set",
 			"version": "1.0.0",
 			"author": "Universal-Team",
+			"icon_index": 1,
 			"description": "The default 3DEins Cardset.",
 			"last_updated": "2020-07-19"
 		},

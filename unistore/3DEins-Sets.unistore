@@ -3,26 +3,20 @@
 		"title": "3DEins-Sets",
 		"author": "SuperSaiyajinStackZ",
 		"url": "https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/raw/master/unistore/3DEins-Sets.unistore",
-		"file": "sdmc:/3ds/Universal-Updater/stores/3DEins-Sets.unistore",
+		"file": "3DEins-Sets.unistore",
 		"description": "You can find CardSets for 3DEins on this store.\nThis store is made by SuperSaiyajinStackZ.\nCardsets are hosted by SuperSaiyajinStackZ as well.",
-		"barColor": "#395472",
-		"bgBottomColor": "#262C4D",
-		"bgTopColor": "#60A8C0",
-		"textColor": "#FFFFFF",
-		"selectedColor": "#78C0D8",
-		"unselectedColor": "#4D7684",
-		"version": 0
+		"version": 3,
+		"revision": 2
 	},
-	"storeContent": [
-		{
+	"storeContent": [{
 		"info": {
 			"title": "Default Set",
-			"version": "1",
+			"version": "1.0.0",
 			"author": "Universal-Team",
 			"description": "The default 3DEins Cardset.",
-			"fileSize": 316499
+			"last_updated": "2020-07-19"
 		},
-		"script": [{
+		"Download here":[{
 			"type": "downloadFile",
 			"file": "https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/raw/master/3DEins/default.zip",
 			"output": "sdmc:/3ds/3DEins/sets/default.zip",

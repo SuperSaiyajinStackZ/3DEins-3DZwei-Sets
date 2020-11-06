@@ -1,55 +1,24 @@
 # 3DEins-3DZwei-Sets
 
-## German
-Kartensets für 3DEins und 3DZwei.
+Just place `3DEins-Sets.unistore` and / or `3DZwei-Sets.unistore` to `sdmc:/3ds/Universal-Updater/stores/` and have fun downloading Sets for 3DEins & 3DZwei.
 
-Unter 'sets' findest du alle aktuellen sets im zip format. Sie werden später über Universal-Updater herunterladbar sein.
+Alternatively, you can also now use Universal-Updater v3's QR Code function, to download those.. without the need to take out the SD Card.. or do it over FTP!
 
-### Benutzung für 3DEins:
+### You will need a WiFi connection, to use this feature, so make sure you are connected to the internet!
 
-1.) Lade dir die `3DEins-Sets.unistore` Datei von dem `unistore` Ordner herunter und packe sie in `sdmc:/3ds/Universal-Updater/stores/`.
+Here are the instructions to do so:
 
-2.) lade dir Universal-Updater [hier](https://github.com/Universal-Team/Universal-Updater/releases) herunter und installiere es.
+1.) Access the Settings of Universal-Updater, by clicking on the settings icon of the sidebar (The last one).
 
-3.) Starte Universal-Updater, dann gehe zu `UniStore` -> `Store list` und wähle das `3DEins-Sets` UniStore aus. Update falls du magst.
+2.) Go to `Select UniStore`.
 
-4.) Nun siehst du alle verfügbaren sets und kannst diese damit herunterladen. Alle Sets sind im `zip` format und werden erst heruntergeladen, dann extrahiert in den korrekten ordner. (`sdmc:/3ds/3DEins/sets/`)
+3.) Press on the QR Code icon.. you should know, how it looks like.
 
-### Benutzung für 3DZwei:
+Scan this QR Code for 3DEins: ![](https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/blob/master/unistore/3DEins-Sets.png)
 
-1.) Lade dir die `3DZwei-Sets.unistore` Datei von dem `unistore` Ordner herunter und packe sie in `sdmc:/3ds/Universal-Updater/stores/`.
+Scan this QR Code for 3DZwei: ![](https://github.com/SuperSaiyajinStackZ/3DEins-3DZwei-Sets/blob/master/unistore/3DZwei-Sets.png)
 
-2.) lade dir Universal-Updater [hier](https://github.com/Universal-Team/Universal-Updater/releases) herunter und installiere es.
 
-3.) Starte Universal-Updater, dann gehe zu `UniStore` -> `Store list` und wähle das `3DZwei-Sets` UniStore aus. Update falls du magst.
+After you scanned it, Universal-Updater will download the UniStore.. from now on, Universal-Updater will handle the update of the UniStore for you, when there is an update available.
 
-4.) Nun siehst du alle verfügbaren sets und kannst diese damit herunterladen. Alle Sets sind im `zip` format und werden erst heruntergeladen, dann extrahiert in den korrekten ordner. (`sdmc:/3ds/3DZwei/sets/`)
-
-Wie du diese benutzen kannst? Siehe auf der Wiki seite!
-
-## English
-Cardsets for 3DEins and 3DZwei.
-
-Under 'sets' you can find the current sets in the zip format. They will be downloadable through Universal-Updater later.
-
-### Usage for 3DEins:
-
-1.) Download the `3DEins-Sets.unistore` file from the `unistore` folder and place it to `sdmc:/3ds/Universal-Updater/stores/`.
-
-2.) Download Universal-Updater from [here](https://github.com/Universal-Team/Universal-Updater/releases) and install it.
-
-3.) Start Universal-Updater, then go to `UniStore` -> `Store list` and select the `3DEins-Sets` UniStore. Update if you like.
-
-4.) Now you're able to see all available sets and you are able to download them through that. All sets are in the `zip` format and will be downloaded first, and then extracted to the correct directory. (`sdmc:/3ds/3DEins/sets/`)
-
-### Usage for 3DZwei:
-
-1.) Download the `3DZwei-Sets.unistore` file from the `unistore` folder and place it to `sdmc:/3ds/Universal-Updater/stores/`.
-
-2.) Download Universal-Updater from [here](https://github.com/Universal-Team/Universal-Updater/releases) and install it.
-
-3.) Start Universal-Updater, then go to `UniStore` -> `Store list` and select the `3DZwei-Sets` UniStore. Update if you like.
-
-4.) Now you're able to see all available sets and you are able to download them through that. All sets are in the `zip` format and will be downloaded first, and then extracted to the correct directory. (`sdmc:/3ds/3DZwei/sets/`)
-
-How you can use it? Look at the wiki page!
+4.) Select the UniStore and press `A`. Now you can use those and have fun!!
